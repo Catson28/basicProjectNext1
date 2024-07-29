@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Para visitar este repositorio basta clicar [aqui](https://basic-project-next1.vercel.app/).
+
 First, run the development server:
 
 ```bash
